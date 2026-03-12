@@ -1,0 +1,42 @@
+site_name: ComputerArchitecture1
+site_url: https://drew-undergraduate-catalog.coursedog.com/courses/CSCI260
+theme:
+  name: material
+  font:
+    text: Lato
+    code: Courier Prime
+
+  icon:
+   logo: octicons/cpu-24
+
+  palette: 
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark Mode
+      primary: light green
+      accent: pink
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light Mode
+      primary: green
+      accent: pink
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: simple/x
+      link: https://x.com/Iori_Oikawa
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/fengkai-wang-224263141/
+
+copyright: Copyright &copy; 2025-2026 IoriOikawa
