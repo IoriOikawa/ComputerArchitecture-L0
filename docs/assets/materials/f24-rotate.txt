@@ -1,0 +1,49 @@
+; This is a comment
+; This program is for right rotation
+
+; This is the initialization block
+.orig x3000		; program starts at x3000 position
+LDI R0 xFF		; load string to rotate from x3100 location (x3100-x3000=xFF)
+BRz	#15			; If string is 0, no need to rotate or store. We are done and go to HALT
+LDI R1 xFE		; load right rotation amount from x3101; we use it as counter later
+				; (x3101-x3003=xFE)
+
+; This is the block to compute how many left rotations
+NOT R1 R1
+ADD R1 R1 #1
+ADD R1 R1 #15	; left_rotation_amount = 16 (string width) - right_rotation_amount
+ADD R1 R1 #1
+BRz #8			; if counter is reduced to 0, jump to the storing instruction
+
+; This is the loop body
+AND R0 R0 R0	; set CC based on MSB in string (typo in the previous version!)
+BRp #1			; if CC is 0, skip the next line
+ADD R3 R3 #1	; otherwise (CC is 1), set R3 to 1 to reserve that bit data
+ADD R0 R0 R0	; shift string to the left by times 2, now the MSB is gone and we pad a 0 to the LSB
+ADD R0 R0 R3	; add the MSB we saved to the 0 we padded
+; still loop body, but now we update helper values
+AND R3 R3 #0	; reset R3 to 0
+ADD R1 R1 #-1	; counter decrement
+BRnzp #-9		; jump back to top of loop
+; END of loop
+
+STI R0 xF1		; storing the result to x3102 (x3102-x3011=xF1)
+HALT			; Stop program here
+.end			; END of the program
+
+
+; These are the intermediates to take us to data space
+; Need to load separately (Recall Jared's question; this is the answer to that)
+.orig x3100
+.FILL x4000		; use this line to locate string
+.FILL x4001		; use this line to locate rotate amount
+.FILL x4002		; use this line to locate storage location
+.end
+
+; This is the data space
+; Need to load separately
+.orig x4000
+.FILL x1370		; String to rotate, 0001 0011 0111 0000		
+.FILL #9		; right rotate amount
+				; later store result here
+.end

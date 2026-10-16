@@ -1,0 +1,1381 @@
+{
+  "schema_version": 1,
+  "scope": "Teaching files and lecture/source variants only. Student submissions, grades, exams, photographs and installers are excluded.",
+  "items": [
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter0.key",
+      "bytes": 1369197,
+      "sha256": "193b1367c66069314cb95076727ec079af83110f741b08093d8667e16bafa4e0",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter0.pdf",
+      "bytes": 411987,
+      "sha256": "de747faaf203dfb9b2cc07f1d973decf46e74464d05f90f9bfb7fbd842a598e5",
+      "status": "imported",
+      "resource_id": "f25-ch00",
+      "download": "docs/assets/materials/f25-ch00.pdf",
+      "extracted_pages": 24
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter1.key",
+      "bytes": 59282831,
+      "sha256": "9cef4705bb4eb5728b293aa244b2ee68a35b2ec901173c5c78d8782c7dd66662",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter1.pdf",
+      "bytes": 32639938,
+      "sha256": "3cc458bd91b4349411f444453b08bff00e42487e1d6fca65c8608667f1694b88",
+      "status": "imported",
+      "resource_id": "f25-ch01",
+      "download": "docs/assets/materials/f25-ch01.pdf",
+      "extracted_pages": 28
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter2.key",
+      "bytes": 51598990,
+      "sha256": "2e56d0f223887e950110d415f6324987ef8269e2b172181ebc1995557a67df28",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter2.pdf",
+      "bytes": 19427773,
+      "sha256": "dc286c336177194c6c8658af2ef0c5833e00740791b99859b502b1ed3dae7bde",
+      "status": "imported",
+      "resource_id": "f25-ch02",
+      "download": "docs/assets/materials/f25-ch02.pdf",
+      "extracted_pages": 36
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter3.key",
+      "bytes": 31937489,
+      "sha256": "dd30583cc02ce2ea562ac4664d4871208a969528f5a031cf150de50daa018d84",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter3.pdf",
+      "bytes": 9524352,
+      "sha256": "8a71f18a96ba61db28a386b4d980286e034a59ae039ff0bc577d14d3df59a237",
+      "status": "imported",
+      "resource_id": "f25-ch03",
+      "download": "docs/assets/materials/f25-ch03.pdf",
+      "extracted_pages": 50
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter4.key",
+      "bytes": 7350103,
+      "sha256": "d9a8132920b26316a991e4af75e320bd9534875bc42a5dcc6ad26db0abceab74",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter4.pdf",
+      "bytes": 2424020,
+      "sha256": "3fa1682077a4b76fb9e6ae784454c46e969748f03678f81ee737b74239966d1f",
+      "status": "imported",
+      "resource_id": "f25-ch04",
+      "download": "docs/assets/materials/f25-ch04.pdf",
+      "extracted_pages": 61
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter5.key",
+      "bytes": 20109605,
+      "sha256": "15a6164571dafedb6cd2a3ed26e1337146f31742fe7241fd4249a3c770143fbe",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter5.pdf",
+      "bytes": 2470833,
+      "sha256": "22f776437d0fae89603bbadf061d03e69cdc8f3f80643f1aeb5a857ed5368d11",
+      "status": "imported",
+      "resource_id": "f25-ch05",
+      "download": "docs/assets/materials/f25-ch05.pdf",
+      "extracted_pages": 36
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter5Plus.pdf",
+      "bytes": 722750,
+      "sha256": "480a97007ca4ca3789782dd24e14fd90f8a1adb4f580c31cebc6b334ed17269c",
+      "status": "imported",
+      "resource_id": "f25-ch05-assembly",
+      "download": "docs/assets/materials/f25-ch05-assembly.pdf",
+      "extracted_pages": 25
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter5拷貝.pdf",
+      "bytes": 2711254,
+      "sha256": "93608a2725c8b5d31dc3407a134fa7e5a378bf9d65b482e702948154669ffbc2",
+      "status": "imported",
+      "resource_id": "f25-ch05-hazards",
+      "download": "docs/assets/materials/f25-ch05-hazards.pdf",
+      "extracted_pages": 62
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter6.key",
+      "bytes": 8836530,
+      "sha256": "45513b8072a8e3d8cbd29ab18c754b636c24d9ebc6879f49032551a0e544cd71",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter6.pdf",
+      "bytes": 3951188,
+      "sha256": "7ab3391b5bacaa6fb133ffa484f0a2fd41c343ae8ed6e910eccefe6a6c709d46",
+      "status": "imported",
+      "resource_id": "f25-ch06",
+      "download": "docs/assets/materials/f25-ch06.pdf",
+      "extracted_pages": 128
+    },
+    {
+      "source": "Fall25/LectureSlides/Chapter 5+.key",
+      "bytes": 2046947,
+      "sha256": "cdc246ce54d3e73d9ecd59c1a2c58a09450e833fdc6ec4ac06a68d6ff10abc2e",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Chapter 7.pdf",
+      "bytes": 9421452,
+      "sha256": "a1128b2543ca829841cc197438b05ba86d040708c5eeaf39dcc6ee1bb49cc036",
+      "status": "imported",
+      "resource_id": "f25-ch07",
+      "download": "docs/assets/materials/f25-ch07.pdf",
+      "extracted_pages": 56
+    },
+    {
+      "source": "Fall25/LectureSlides/Chapter 8.key",
+      "bytes": 33112800,
+      "sha256": "46568fa73335b6b33368d595e37e689f97137ba48b9cb80caba13bc9277351fe",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Chapter 8.pdf",
+      "bytes": 9999622,
+      "sha256": "c7a18418ed968210cfcec4fd615d642696d74ed1166e12b33183d52b32518d9f",
+      "status": "imported",
+      "resource_id": "f25-ch08",
+      "download": "docs/assets/materials/f25-ch08.pdf",
+      "extracted_pages": 69
+    },
+    {
+      "source": "Fall25/LectureSlides/Chapter7.key",
+      "bytes": 19683570,
+      "sha256": "4246993751d20520c736e96977de526c05ce16b6745d28aff03ddbc0068d4332",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 1.key",
+      "bytes": 1260473,
+      "sha256": "bef088bc00748dc9338bb832e0b49ffad33656efcd7a0011247fdefc746e9903",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 10.key",
+      "bytes": 11903889,
+      "sha256": "f577e15b10f43129fdbb28ec64f00a130f42f690f4792f1b7807af21a1ec03dc",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 11.key",
+      "bytes": 2724509,
+      "sha256": "7a55cdd6c7f7e075762a87f128e7fe64acc798b3b9f9110f07f528c74cd79809",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 12.key",
+      "bytes": 1205283,
+      "sha256": "74935318a2204b8e5359d7ded30bf99a63fce193628ef4ea4881ec1533cff72a",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 14.key",
+      "bytes": 1797680,
+      "sha256": "dbca2ebdcf71231fbc46f43288d19513304c7e9cb1918819d0b833732ef1e6b1",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 15.key",
+      "bytes": 2038169,
+      "sha256": "863754033d9461cd650ef6a31d887f21d943a1b09321b18115c2fe6b0165e8a0",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 16.key",
+      "bytes": 1988779,
+      "sha256": "1284a31644e30476e5f1c9f80df091e0b72389322adfb3d6965a693810ef50ee",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 17.key",
+      "bytes": 1474533,
+      "sha256": "596475755d7218faf8e4353c319e2625b0a0161926e534a7172f8d6179c4acfa",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 18.key",
+      "bytes": 2373004,
+      "sha256": "511a660e712c899f58fcc14cd8b61ce120435e3a5724bb984e97f341dcd25ee3",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 19.key",
+      "bytes": 2612599,
+      "sha256": "5ae4cb4ecc51118ff2bfcd72a13adb1bca245006de5963e3ef6a481347760023",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 2.key",
+      "bytes": 59328447,
+      "sha256": "c0d514b56a1867e7509e0a47dc6bf8e8c786085ab0dc02edc8bc5ba5589325d4",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 20.key",
+      "bytes": 3744904,
+      "sha256": "345a777eec75a1c8574c42170436ef7b0784ce966788dec5de9918d7060ab0ae",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 21.key",
+      "bytes": 755435,
+      "sha256": "9f6261ef8ba8ddaba6bc76e2ce7e9a2814c612b9bdea7471f5f4bf55bdd73405",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 22.key",
+      "bytes": 13306764,
+      "sha256": "6dc122f35be96c129a5819f78c4f0bf565f327809e273bdf381d93a5544f4a52",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 23.key",
+      "bytes": 3296437,
+      "sha256": "184d6a6a206609371f8ed8d253386e6309f5045c919896529da525769a8a21ec",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 24.key",
+      "bytes": 2989690,
+      "sha256": "93d7b1553aa657a66b11c6e325dc91bbeb30855b529a7b8abc80125c4d1ca862",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 25.key",
+      "bytes": 1841599,
+      "sha256": "420650ec53f25f1a74f8bbb0fece43e09da30f013c462d933ccab7c106af2b1c",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 26.key",
+      "bytes": 15803931,
+      "sha256": "257ec12919635aeb75f07da743b6d531b856c88e81ab6e0799df9c315c83f127",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 27.key",
+      "bytes": 14075683,
+      "sha256": "0439f1c9664f9dfd9de6e2e98580da7196a456a7b264cbcb1f7ea9da29d7984b",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 27拷貝.key",
+      "bytes": 14075683,
+      "sha256": "0439f1c9664f9dfd9de6e2e98580da7196a456a7b264cbcb1f7ea9da29d7984b",
+      "status": "exact-duplicate",
+      "same_as": "Fall25/LectureSlides/Lecture 27.key"
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 28.key",
+      "bytes": 5869752,
+      "sha256": "59d4b29a136521d2d8b0e7ec269660612c136ecdbafa326c28c65557157e1e65",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 3.key",
+      "bytes": 43817427,
+      "sha256": "2275420aa64a1f10c3897d525c30bf6e76aad2d0a059a70808c34dee79b4a4e5",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 3.pptx",
+      "bytes": 12305109,
+      "sha256": "f4d1b02de06f87d42a3c053dc9f96587b4812b9e0f4f10c65f8689cd36035c6e",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 31
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 3拷貝.key",
+      "bytes": 43817427,
+      "sha256": "2275420aa64a1f10c3897d525c30bf6e76aad2d0a059a70808c34dee79b4a4e5",
+      "status": "exact-duplicate",
+      "same_as": "Fall25/LectureSlides/Lecture 3.key"
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 3拷貝.pptx",
+      "bytes": 12305109,
+      "sha256": "f4d1b02de06f87d42a3c053dc9f96587b4812b9e0f4f10c65f8689cd36035c6e",
+      "status": "exact-duplicate",
+      "same_as": "Fall25/LectureSlides/Lecture 3.pptx",
+      "extracted_pages": 31
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 4.key",
+      "bytes": 21706266,
+      "sha256": "3bdfd8f896f704db9c10c952598fa33b013d0fa099bafff82aad7255e0200caa",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 5.key",
+      "bytes": 31922027,
+      "sha256": "ac79835980cfc2434140e2cff1055b0e5477e00a01f31baf2b0ab4bf02e3404d",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 7.key",
+      "bytes": 1711430,
+      "sha256": "0c18c3509a5ba143a7a63d340205970e4fb592d330bfce5457c3332120a1d3f4",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 8.key",
+      "bytes": 1711430,
+      "sha256": "0c18c3509a5ba143a7a63d340205970e4fb592d330bfce5457c3332120a1d3f4",
+      "status": "exact-duplicate",
+      "same_as": "Fall25/LectureSlides/Lecture 7.key"
+    },
+    {
+      "source": "Fall25/LectureSlides/Lecture 9.key",
+      "bytes": 1664784,
+      "sha256": "4bb7eb7a1e7be8784ae78bbc548e6e86a7e76dae983c6fe27593c261a6154137",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Midterm Notes.key",
+      "bytes": 572978,
+      "sha256": "b03a06acccf8df7097186004a7ef7983055cde5e27daaa0bd39bb8cae9862ba9",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Midterm Notice.key",
+      "bytes": 485202,
+      "sha256": "f66639279e223ea44550ea7ffd7382f42ab296855b2428bcc3e594ab2a64299e",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/LectureSlides/Midterm Notice.pdf",
+      "bytes": 36663,
+      "sha256": "07bfd696d5c784f77f04951b207e244041b4145a721280084164b48cab372872",
+      "status": "course-administration",
+      "note": "Historical classroom notice, outside the reading sequence.",
+      "extracted_pages": 6
+    },
+    {
+      "source": "Fall25/LectureSlides/gitdonot.key",
+      "bytes": 1941956,
+      "sha256": "34195a4d5e2ceb1314493b842ff64d270f3eeca5dcab337dc83d7c7758d57792",
+      "status": "keynote-source-only",
+      "note": "Original preserved in course folder. Slide contents not extracted or compared to chapter PDFs."
+    },
+    {
+      "source": "Fall25/Assignments/AssemblyProject_Calculator.pdf",
+      "bytes": 36399,
+      "sha256": "8ed04e70d46550d1f3391149d3f4162b9d3ae316e91db70f05397644b1e95cc6",
+      "status": "imported",
+      "resource_id": "f25-lc3-project",
+      "download": "docs/assets/materials/f25-lc3-project.pdf",
+      "extracted_pages": 6
+    },
+    {
+      "source": "Fall25/Assignments/Assignment0-2.pdf",
+      "bytes": 4809,
+      "sha256": "86636bc36e623b36e982482ab7a52286e53147e1e98b282a2c2e6b2d91252bf1",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Fall25/Assignments/Assignment0.md",
+      "bytes": 6043,
+      "sha256": "58f0890cd9fd2f417927aa3a254cee52a0a9e725bbb850f0bb1253acccc6fd4a",
+      "status": "malformed-export",
+      "note": "RTF control text; a readable Survival Kit PDF is imported.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Fall25/Assignments/Assignment0.pdf",
+      "bytes": 109821,
+      "sha256": "a50a6516ec7b5349858ae5491414644e3788213635f4eb687055f11467984145",
+      "status": "malformed-export",
+      "note": "RTF control text; a readable Survival Kit PDF is imported.",
+      "extracted_pages": 3
+    },
+    {
+      "source": "Fall25/Assignments/Assignment0_Survival_Kit.pdf",
+      "bytes": 4910,
+      "sha256": "bc2cbc2623262f6bf8abff22e2298f5dbc15cf0f25c8e654d856968928a0e132",
+      "status": "imported",
+      "resource_id": "f25-a0",
+      "download": "docs/assets/materials/f25-a0.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Fall25/Assignments/Assignment0拷貝.pdf",
+      "bytes": 17967,
+      "sha256": "5c8142bb0a08fe41fdded1ccddc6b546317b4f1dea153c040dce13fe7ee62c33",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Fall25/Assignments/Assignment1.pdf",
+      "bytes": 2968,
+      "sha256": "25fcf4d4b30e3c98b894f78bc19f2ee5dbfcb894a133c613bf23ea5b53e7c7ca",
+      "status": "imported",
+      "resource_id": "f25-a1",
+      "download": "docs/assets/materials/f25-a1.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Fall25/Assignments/Assignment2.pdf",
+      "bytes": 25372,
+      "sha256": "cdae605a09acc88b36d2db295a2f58f1651588e4fe86703a5ea943d6c4708a0b",
+      "status": "imported",
+      "resource_id": "f25-a2",
+      "download": "docs/assets/materials/f25-a2.pdf",
+      "extracted_pages": 4
+    },
+    {
+      "source": "Fall25/Assignments/CProject.md",
+      "bytes": 9033,
+      "sha256": "d830c1b443674d644ea2d069e456d83a602756a3ff31a987c5677accbe78a4db",
+      "status": "imported",
+      "resource_id": "f25-c-project-source",
+      "download": "docs/assets/materials/f25-c-project-source.md.txt",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Fall25/Assignments/CProject_Calculator.pdf",
+      "bytes": 33793,
+      "sha256": "09a392ad51f2c0c15465179c72b35aea6af3eb3283d74887340d1fcd015421a8",
+      "status": "imported",
+      "resource_id": "f25-c-project",
+      "download": "docs/assets/materials/f25-c-project.pdf",
+      "extracted_pages": 6
+    },
+    {
+      "source": "Fall25/Assignments/Calculator Documents.pdf",
+      "bytes": 913649,
+      "sha256": "679f41c67c0c9e9abe66f7d7558d9fa46ddff193188b6c1db98c3b9ad5f033fb",
+      "status": "external-reference",
+      "note": "Reference document, not an authored chapter; provenance/reuse not yet reconciled.",
+      "extracted_pages": 24
+    },
+    {
+      "source": "Fall25/Assignments/assembly3.pdf",
+      "bytes": 572857,
+      "sha256": "3d65007ba70e56759d3b05ab950c8482092491999da7c71521ac0d73c12d6417",
+      "status": "external-reference",
+      "note": "Reference document, not an authored chapter; provenance/reuse not yet reconciled.",
+      "extracted_pages": 12
+    },
+    {
+      "source": "Fall25/Assignments/lc3-2.pdf",
+      "bytes": 263756,
+      "sha256": "14a88a62dc11a4e0f3848efcb5de4e32c1b8e4860a8bce90568c60f7eaa4eedf",
+      "status": "external-reference",
+      "note": "Reference document, not an authored chapter; provenance/reuse not yet reconciled.",
+      "extracted_pages": 32
+    },
+    {
+      "source": "Fall25/Assignments/lc3ISA.pdf",
+      "bytes": 999301,
+      "sha256": "9e2fec3433d10a7e6ba97091d82c46f9ee280e07cdefade52b49a6347d8dee66",
+      "status": "external-reference",
+      "note": "Reference document, not an authored chapter; provenance/reuse not yet reconciled.",
+      "extracted_pages": 26
+    },
+    {
+      "source": "Fall25/Assignments/md-to-pdf.pdf",
+      "bytes": 35841,
+      "sha256": "2222a9121290c09d054a73e095ab4c3f8bdfbe9bf37ad1407739787606aab780",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 6
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/HWs/HW1/main.tex",
+      "bytes": 7420,
+      "sha256": "7c625f12e6613491125fafcc15027d4220904f6c994244f922d2fb869e565942",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/HWs/HW2.zip",
+      "bytes": 255591,
+      "sha256": "dba59fce87e6e06e689201f4d5a9972a53424e8bcfe18aa59651c3096e851872",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/HWs/HW3/main.tex",
+      "bytes": 11508,
+      "sha256": "92d1162fa6110b42a276b3bb5d9337b58428068a9e28a997ddfa96848464d307",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/HWs/HW4/main.tex",
+      "bytes": 7508,
+      "sha256": "1b2d2431e57d5c2687db1edc733b1fc92c262f788acf61e9a21c7a33b00dc5c8",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/HWs/HW5/main.tex",
+      "bytes": 2332,
+      "sha256": "ce40e719225cff5d0f20bc39451c1750007587826e00afce20e790ba62e66ce4",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/HWs/HW6/main.tex",
+      "bytes": 3230,
+      "sha256": "327696d9f488f675bb11c7319a7a8db98baba29158f63d2a66f26d4286198174",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/HWs/HW7/main.tex",
+      "bytes": 3292,
+      "sha256": "4b3d78209d62231af27b377a00aedc059cf64f3a59e5910e0ef157620d334904",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/HWs/HW8/main.tex",
+      "bytes": 3458,
+      "sha256": "3c8d3a2a40541691986012070f2a308be8cd85579d7f2a651fdaf6195afd3f2e",
+      "status": "imported",
+      "resource_id": "f24-recursion-source",
+      "download": "docs/assets/materials/f24-recursion-source.tex",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/InClass Exercises/InClass1.zip",
+      "bytes": 3689,
+      "sha256": "3184a0eb515f75a97bed7787176994e066c3948e5276bccb2ee3cfb8bdfbf6e0",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/InClass Exercises/InClass2.zip",
+      "bytes": 6999859,
+      "sha256": "d127d9206e2bc2ab85811175ce1caaee3ff76be275a4051cdefd6c0004df741d",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/InClass Exercises/InClass3/main.tex",
+      "bytes": 1850,
+      "sha256": "776b6932490d8a1710c07c807f7d6701f1d2d2cd9f298850431cd7468101c2b0",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/InClass Exercises/InClass4/main.tex",
+      "bytes": 3593,
+      "sha256": "5cfa54b32ce15192a2fa1b85006d7049d95d4ca5a7c8e6025fa98a233440e7d1",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/InClass Exercises/InClass5/main.tex",
+      "bytes": 10957,
+      "sha256": "734c01cd3f0bf68649a78cd7f13b44baf436903616a35106a7adfc86767c870e",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/Projects and etc/Assembly/main.tex",
+      "bytes": 5678,
+      "sha256": "51de1c628a455020a66e5a044c8909ecff102fb65d38a1a7d80276d0ae9e1acf",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/Projects and etc/C/main.tex",
+      "bytes": 5553,
+      "sha256": "a49e300b5adb0e0ead2cccfed401b94508279c7f7546a75cbdf44ed1f8711e44",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/CSCI260 latex source Fall24/Projects and etc/Linux Commands/main.tex",
+      "bytes": 2993,
+      "sha256": "4e815566a18b991757b4763443f6f81e542d64f25f69badb5803c2ee98473130",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate.",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/1/CSCI260_HW1_Fall24.pdf",
+      "bytes": 62554,
+      "sha256": "0e1297bd52c1d3d30f49abb5036ef48369c3a32cc9bd22aad3ab4c74bdbaddcc",
+      "status": "imported",
+      "resource_id": "f24-hw1",
+      "download": "docs/assets/materials/f24-hw1.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/1/CSCI260_HW1_Fall24Sol.pdf",
+      "bytes": 76176,
+      "sha256": "a0deecd9f4745a7fac706b231262fe4cfb110c2d6c2eb0453c65ad9db2c590ba",
+      "status": "imported",
+      "resource_id": "f24-hw1-solution",
+      "download": "docs/assets/materials/f24-hw1-solution.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/2/CSCI260_HW2_Fall24.pdf",
+      "bytes": 84997,
+      "sha256": "c8370f3f9dd59b7dddf81ae98eefbc6dcc72ce830098cb7b631b63e8d3fd2dea",
+      "status": "imported",
+      "resource_id": "f24-hw2",
+      "download": "docs/assets/materials/f24-hw2.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/2/CSCI260_HW2_Fall24Sol.pdf",
+      "bytes": 224689,
+      "sha256": "a569f156c0a52b9ef62f57494afc9117f6a045f5a044ac21573b96899c08fd56",
+      "status": "imported",
+      "resource_id": "f24-hw2-solution",
+      "download": "docs/assets/materials/f24-hw2-solution.pdf",
+      "extracted_pages": 3
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/2/DigiLogic/NOT.png",
+      "bytes": 9124,
+      "sha256": "c2a6550e4f85808fb1ce93dd182428e83c7ceb99702b88ff1b499a0673310e64",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/2/DigiLogic/OR.png",
+      "bytes": 16030,
+      "sha256": "4b06aad50894c762cdb5c218cc9a4660756c1ee1640966cf73d086c557afd3cc",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/2/DigiLogic/P4_AND.png",
+      "bytes": 57755,
+      "sha256": "2f6272603d9bf75c9c0a27ca4a71eced394a87a2fd340ac2dfdb978f181d6a8a",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/2/DigiLogic.zip",
+      "bytes": 35363,
+      "sha256": "a5f51e76dc011930dbdec2e96e1a906bb466b452568d8046af5a3071d2fabd2f",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/2/P4_AND.png",
+      "bytes": 57361,
+      "sha256": "12af7fa780d3e427293a9e09b41d6946d6d921dbdfc5901354d8d216a6f40dfd",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/2/P4_NOT.png",
+      "bytes": 21005,
+      "sha256": "fcd8f92c1a1c99752ac416fd0496407a29fd8e533972dae15f93262c407f4e7f",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/2/P4_OR.png",
+      "bytes": 61474,
+      "sha256": "00d502b82ef592336a5b02655336210e1dad3b81f62c02eeb029e7e1b7a34793",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/3/CSCI260_HW3_Fall24.pdf",
+      "bytes": 87401,
+      "sha256": "d3a928d4315d1529c09cd95bf8a5d0e6a512a16500badb796e772b4a823227b1",
+      "status": "imported",
+      "resource_id": "f24-hw3",
+      "download": "docs/assets/materials/f24-hw3.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/3/CSCI260_HW3_Fall24Sol.pdf",
+      "bytes": 106184,
+      "sha256": "c3ca584847682601f04ae830e1daa4a3af9bde0911264bb9120c043faeedc4dd",
+      "status": "imported",
+      "resource_id": "f24-hw3-solution",
+      "download": "docs/assets/materials/f24-hw3-solution.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/4/CSCI260_HW4_Fall24.pdf",
+      "bytes": 64937,
+      "sha256": "47904e47b4fa0bd477e5d8f1c4fbd2ed87c9131fa3fed1f787369fa2f9a9a027",
+      "status": "imported",
+      "resource_id": "f24-hw4",
+      "download": "docs/assets/materials/f24-hw4.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/4/CSCI260_HW4_Fall24Sol.pdf",
+      "bytes": 64447,
+      "sha256": "bc381e94f36fa37ef84f06840961a4b36768a4befd52d67cd398b1bfc519f098",
+      "status": "imported",
+      "resource_id": "f24-hw4-solution",
+      "download": "docs/assets/materials/f24-hw4-solution.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/5/CSCI260_HW5_Fall24.pdf",
+      "bytes": 84271,
+      "sha256": "f02596ec925477b6e36a5cda9cab5d468fa9856343e7f0f3671506d2b96f2313",
+      "status": "imported",
+      "resource_id": "f24-hw5",
+      "download": "docs/assets/materials/f24-hw5.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/5/CSCI260_HW5_Fall24Sol.pages",
+      "bytes": 175743,
+      "sha256": "55b9549efe4a589547e6fc166748318e0bb1e8b7c33b6d3fc054cd987403894f",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/5/CSCI260_HW5_Fall24Sol.pdf",
+      "bytes": 24015,
+      "sha256": "7bb8e9a1bc543a72ea0340fdcd55ca809bd2e41560cc997dfc33c5e200653e8e",
+      "status": "imported",
+      "resource_id": "f24-hw5-solution",
+      "download": "docs/assets/materials/f24-hw5-solution.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/6/CSCI260_HW6_Fall24.pdf",
+      "bytes": 85140,
+      "sha256": "812cdf2f7bcf4451f5150606e1be7bd7ce23bfd27aee2d8c5ea9e96aa505e8c4",
+      "status": "imported",
+      "resource_id": "f24-hw6",
+      "download": "docs/assets/materials/f24-hw6.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/6/TwosComp_Sol.c",
+      "bytes": 2474,
+      "sha256": "a8f173b1c89f5c8f9c8fe82855ed6c625bc98bd5dcd866823f1a23ae3876b99e",
+      "status": "imported",
+      "resource_id": "f24-twos-complement",
+      "download": "docs/assets/materials/f24-twos-complement.c",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/7/CSCI260_HW7_Fall24.pdf",
+      "bytes": 72190,
+      "sha256": "d3e31ba495b50cd46862fe46858c2872f97b7e514a3ff27bf3085ebc10188fbc",
+      "status": "imported",
+      "resource_id": "f24-hw7",
+      "download": "docs/assets/materials/f24-hw7.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/HW/7/Caesar_Sol.c",
+      "bytes": 4569,
+      "sha256": "7137c5b80ead900400ed7e745aa151547ec7b553b82e143547ded68d59a141df",
+      "status": "imported",
+      "resource_id": "f24-caesar",
+      "download": "docs/assets/materials/f24-caesar.c",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/1/CSCI260_InClass1_DataRep_F24.pdf",
+      "bytes": 65205,
+      "sha256": "d96854f3e39904de5fffe83c903a44d1828e7652431251f40be6144ad0fd8376",
+      "status": "imported",
+      "resource_id": "f24-practice1",
+      "download": "docs/assets/materials/f24-practice1.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/1/CSCI260_InClass1_DataRep_F24Sol.pdf",
+      "bytes": 82942,
+      "sha256": "256d05bbf7c2ebe43f19fe1a1f92ed50fda41a3dbfb0fa3f77be3d55b100d430",
+      "status": "imported",
+      "resource_id": "f24-practice1-solution",
+      "download": "docs/assets/materials/f24-practice1-solution.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/2/CSCI260_InClass2_DigiLogic_F24.pdf",
+      "bytes": 123483,
+      "sha256": "b8da7d47e2e5aa9d4b4bad13409f3cdf5134cb52b7e8990522897a61a463f173",
+      "status": "imported",
+      "resource_id": "f24-practice2",
+      "download": "docs/assets/materials/f24-practice2.pdf",
+      "extracted_pages": 3
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/2/CSCI260_InClass2_DigiLogic_F24Sol.pdf",
+      "bytes": 7125113,
+      "sha256": "da7a18d24388413d71e640b7e69c5cb8cb0c7516c8f05b5f5845ff653016eca7",
+      "status": "imported",
+      "resource_id": "f24-practice2-solution",
+      "download": "docs/assets/materials/f24-practice2-solution.pdf",
+      "extracted_pages": 4
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/2/P1.JPG",
+      "bytes": 1093833,
+      "sha256": "cf51a86306114d9833f54d02c582f9df4c547d05a0ada007c2434d9a1f036aca",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/2/P2_AND.JPG",
+      "bytes": 1573448,
+      "sha256": "885423cbe1ddbdfd311f917eef59681d2d4df94931db7a9c28ef24393e60d3d8",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/2/P2_NOT.JPG",
+      "bytes": 1060903,
+      "sha256": "24583b761a03a2ca3fe75a87b0702f19d28dd6ceaa4cf5b9c3c50286a71ee3dd",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/2/P2_OR.JPG",
+      "bytes": 1655724,
+      "sha256": "970ff7a977704bf65719470fc6e64da12f34d312dc1eb92946e56d41cac346d0",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/2/P6.JPG",
+      "bytes": 1576815,
+      "sha256": "161b70b7af92bdde891ac890f4659c3cf5c92e5f5321739dd7a79265ee1e47e6",
+      "status": "source-or-alternate",
+      "note": "Preserved in original folder; not silently treated as an exact duplicate."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/3/CSCI260_InClass3_LC3_F24.pdf",
+      "bytes": 64555,
+      "sha256": "867195623b99c749087e8378f39aedce6b90d09d0b21ab538fbe33e3d6c12589",
+      "status": "imported",
+      "resource_id": "f24-practice3",
+      "download": "docs/assets/materials/f24-practice3.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/3/ReverseString.txt",
+      "bytes": 1104,
+      "sha256": "f53630ebe8a249c840f3d78ba1b4c173fa005415d2e4b1a3b8ab98f73057efcf",
+      "status": "imported",
+      "resource_id": "f24-reverse",
+      "download": "docs/assets/materials/f24-reverse.txt",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/3/RightRotation.txt",
+      "bytes": 1792,
+      "sha256": "b461c8bcaf3d422b70a25347de3b83c803a2009ce30e464a7830f426b1b71d05",
+      "status": "imported",
+      "resource_id": "f24-rotate",
+      "download": "docs/assets/materials/f24-rotate.txt",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/4/CSCI260_InClass4_C_Warmup_F24.pdf",
+      "bytes": 97822,
+      "sha256": "fa856e690131eefdf207ca4ca1398ff6d4b3bdba5d6de62dc5a10ef2e9a88645",
+      "status": "imported",
+      "resource_id": "f24-practice4",
+      "download": "docs/assets/materials/f24-practice4.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/5/CSCI260_InClass5_Pointers_Fall24.pdf",
+      "bytes": 81417,
+      "sha256": "ca6aada399a9fec64834b140a98a59fd0f86d77426b18a58aaaa3853f8b064ba",
+      "status": "imported",
+      "resource_id": "f24-practice5",
+      "download": "docs/assets/materials/f24-practice5.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/InClass/5/CSCI260_InClass5_Pointers_Fall24Sol.pdf",
+      "bytes": 84253,
+      "sha256": "566a875f9703f1fb14fcc12ee84e3d6513019ead67d1a880a02e18a959b4ab25",
+      "status": "imported",
+      "resource_id": "f24-practice5-solution",
+      "download": "docs/assets/materials/f24-practice5-solution.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/1_Data_Representation/Representation1.pdf",
+      "bytes": 756205,
+      "sha256": "0be2816d579d978edc33fac455a2a5957667fe42beec8af2457be446aa5f91c7",
+      "status": "imported",
+      "resource_id": "f24-representation-1",
+      "download": "docs/assets/materials/f24-representation-1.pdf",
+      "extracted_pages": 41
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/1_Data_Representation/Representation1.pptx",
+      "bytes": 4078906,
+      "sha256": "e2d9118691e1f3707b9fd77ab2383f82edf298259b04c7ab9850c7b7e58b7597",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 41
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/1_Data_Representation/Representation2.pdf",
+      "bytes": 336780,
+      "sha256": "978175d93998f51ec4421c9b38a1070e9bdb9d6813d0f0d01b0aebe85d6a3b9c",
+      "status": "imported",
+      "resource_id": "f24-representation-2",
+      "download": "docs/assets/materials/f24-representation-2.pdf",
+      "extracted_pages": 24
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/1_Data_Representation/Representation2.pptx",
+      "bytes": 2808808,
+      "sha256": "4654201b72c903430b3b1632e3e8eceae4abffa65b901b5379a492385fd6eed4",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 24
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/1_Data_Representation/Representation3.pdf",
+      "bytes": 558271,
+      "sha256": "772689b0f38bf3401c0b7f34119da9d647674ee4021631e8d6a3ed0659994f6e",
+      "status": "imported",
+      "resource_id": "f24-representation-3",
+      "download": "docs/assets/materials/f24-representation-3.pdf",
+      "extracted_pages": 14
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/1_Data_Representation/Representation3.pptx",
+      "bytes": 946586,
+      "sha256": "3e5dfb0c078ad4225e278a7501aaa9cfd0de5e9c326d866dd8ff0942dfbb6c54",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 14
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/2_Digital_Logic/Digital_Logic1.pdf",
+      "bytes": 1672481,
+      "sha256": "6a5810cf0b4f5fb46c793ae7ca5aadd0faf243bb377fca80c0b016a55dd0f43b",
+      "status": "imported",
+      "resource_id": "f24-digital-logic-1",
+      "download": "docs/assets/materials/f24-digital-logic-1.pdf",
+      "extracted_pages": 30
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/2_Digital_Logic/Digital_Logic1.pptx",
+      "bytes": 6262880,
+      "sha256": "356779e6ab4136d28642cbf46121afc6615a5bd5faae71ca8a2fa7daced7537b",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 30
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/2_Digital_Logic/Digital_Logic2.pdf",
+      "bytes": 1129229,
+      "sha256": "5a49fda3b35f095385f76e5de3651d246a249d54e9fee587dc834a3dfb9448cc",
+      "status": "imported",
+      "resource_id": "f24-digital-logic-2",
+      "download": "docs/assets/materials/f24-digital-logic-2.pdf",
+      "extracted_pages": 17
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/2_Digital_Logic/Digital_Logic2.pptx",
+      "bytes": 2774228,
+      "sha256": "bf6879d193e6d65ed3888529f6324140a14dfeb2def8737e5cb72f167e89b8bc",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 17
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/3_vonNeumann_LC3/LC3_Ins.pdf",
+      "bytes": 681868,
+      "sha256": "0fae659e1b6bc7a40dc86e9e8460c0e0885fb1b31cd545677ebe3875cac5c3f8",
+      "status": "imported",
+      "resource_id": "f24-lc3-instructions",
+      "download": "docs/assets/materials/f24-lc3-instructions.pdf",
+      "extracted_pages": 30
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/3_vonNeumann_LC3/LC3_Ins.pptx",
+      "bytes": 2429501,
+      "sha256": "c9fea2d55f0caf2742058cc2d19ee828a5beee8ba562cbc53ebf135b1fe952ac",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 30
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/3_vonNeumann_LC3/vonNeumannModel.pdf",
+      "bytes": 710531,
+      "sha256": "43f478ebdd454a311dc644311e93c52511735dda00f319cd61a865ca12304868",
+      "status": "imported",
+      "resource_id": "f24-von-neumann",
+      "download": "docs/assets/materials/f24-von-neumann.pdf",
+      "extracted_pages": 24
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/3_vonNeumann_LC3/vonNeumannModel.pptx",
+      "bytes": 1757300,
+      "sha256": "4189bc146d32267ebef1b5b49b563343b8c4c6837e9e5e74ba8b036d5548fa2b",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 24
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/4_Programming/Assembly_Occurrences/CountOccurrences.txt",
+      "bytes": 1049,
+      "sha256": "2b9d76d12de64a0bc27bd56ff296bcb81f33f4fd65e20d65f38d56f9c9151ac1",
+      "status": "imported",
+      "resource_id": "f24-count-occurrences",
+      "download": "docs/assets/materials/f24-count-occurrences.txt",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/4_Programming/Assembly_Occurrences/InputFile.txt",
+      "bytes": 118,
+      "sha256": "b33ab8e02d0c3d66a1556d8ff10593cefed7984dd64b08e57e2b720330d1271a",
+      "status": "imported",
+      "resource_id": "f24-count-input",
+      "download": "docs/assets/materials/f24-count-input.txt",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/4_Programming/Assembly_Programming.pdf",
+      "bytes": 599118,
+      "sha256": "370830c1e23d29bc3ad45c01d6ba3420c6ffe41c0311c66ca71b0cc305005466",
+      "status": "imported",
+      "resource_id": "f24-assembly",
+      "download": "docs/assets/materials/f24-assembly.pdf",
+      "extracted_pages": 17
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/4_Programming/Assembly_Programming.pptx",
+      "bytes": 1355799,
+      "sha256": "7545203945a53b036c246be2f16d6ce801c837613ce4a4fa541c8730a5aa1bc9",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 17
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/4_Programming/LC3_Programming.pdf",
+      "bytes": 542664,
+      "sha256": "e456d03b160162fdf450d2798bcc2be723750e62136a19d6e8b47acd643e1134",
+      "status": "imported",
+      "resource_id": "f24-lc3-programming",
+      "download": "docs/assets/materials/f24-lc3-programming.pdf",
+      "extracted_pages": 21
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/4_Programming/LC3_Programming.pptx",
+      "bytes": 761141,
+      "sha256": "71c943b4985b613add25b4dc310c5876666e82b8980e83feb86d60d8888524bc",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 21
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/5_Linux/CSCI260_LinuxCommands.pdf",
+      "bytes": 89889,
+      "sha256": "fb649df7bf8a16866fbadc9d7a16d3dcb48daac373fb86e6561adb5b533a3858",
+      "status": "imported",
+      "resource_id": "f24-linux-sheet",
+      "download": "docs/assets/materials/f24-linux-sheet.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/5_Linux/LinuxCommands.pdf",
+      "bytes": 176644,
+      "sha256": "44f99ec88c99e91dfe5ef8165017d578e83bddc1e6fa71efae10f4b12e351cfa",
+      "status": "imported",
+      "resource_id": "f24-linux",
+      "download": "docs/assets/materials/f24-linux.pdf",
+      "extracted_pages": 30
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/5_Linux/LinuxCommands.pptx",
+      "bytes": 110753,
+      "sha256": "53e499b32aa285ac4d2eb05f9fd12f0316f2bbef40cbd6dbb730639fe68eeccf",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 30
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/CSCI260_InClass6_C_Warmup.pdf",
+      "bytes": 97721,
+      "sha256": "bd07cab97b4c42f948edd6f6206615cc0f13e0b4ec34930cf37f02f2ee4eafa8",
+      "status": "imported",
+      "resource_id": "f24-c-warmup-legacy",
+      "download": "docs/assets/materials/f24-c-warmup-legacy.pdf",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/IO_File.pdf",
+      "bytes": 151262,
+      "sha256": "fd67897a0b71f745b4943a6fbf7b130f9db47a20a2624c9077066cc565e6357a",
+      "status": "imported",
+      "resource_id": "f24-io-files",
+      "download": "docs/assets/materials/f24-io-files.pdf",
+      "extracted_pages": 22
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/IO_File.pptx",
+      "bytes": 279953,
+      "sha256": "7ab38d28129c41788008bad6706a49120e9e457f2796625e6313d3d0ed62a76c",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 22
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/didn_t use/C Basics.pptx",
+      "bytes": 251429,
+      "sha256": "a4833e19f80c02af114947c6148a4e3088159dd352019ad5e1b309ca42b13251",
+      "status": "imported",
+      "resource_id": "f24-c-basics",
+      "download": "docs/assets/materials/f24-c-basics.pptx",
+      "extracted_pages": 16
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/didn_t use/C Controls.pptx",
+      "bytes": 92468,
+      "sha256": "2f4e5813721144e3df632b73e50dab65e8df3a9f36463741840e83017fb6f3ee",
+      "status": "imported",
+      "resource_id": "f24-c-controls",
+      "download": "docs/assets/materials/f24-c-controls.pptx",
+      "extracted_pages": 15
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/didn_t use/C Functions.pptx",
+      "bytes": 203397,
+      "sha256": "02fe844b9950ec5924bd9bc9173d7210b69922b08c4562a514d997918e656a7a",
+      "status": "imported",
+      "resource_id": "f24-c-functions",
+      "download": "docs/assets/materials/f24-c-functions.pptx",
+      "extracted_pages": 11
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/didn_t use/C_Prog/a.out",
+      "bytes": 49424,
+      "sha256": "071a1a9d65e0bc0ec9e80ef7cc5f54b6f8d3a941e45d008c929942cdaed1d88d",
+      "status": "compiled-output",
+      "note": "Not imported into the website."
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/didn_t use/C_Prog/bitwise.c",
+      "bytes": 87,
+      "sha256": "039ee0cac8562ba92a41bcd0a7aadba37fcd78fe5f4a0a78dc48c315ff32e150",
+      "status": "imported",
+      "resource_id": "f24-c-bitwise",
+      "download": "docs/assets/materials/f24-c-bitwise.c",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/didn_t use/C_Prog/divs.c",
+      "bytes": 254,
+      "sha256": "ea5c89e3b1127b1107eb0d1a9d28d60d03a03145735cf42c443c809e6f3b0040",
+      "status": "imported",
+      "resource_id": "f24-c-divs",
+      "download": "docs/assets/materials/f24-c-divs.c",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/didn_t use/C_Prog/test.c",
+      "bytes": 413,
+      "sha256": "e7b25b2ba109f75d52312b1047f5f3d38592c787513ca8d914596c906c585ab0",
+      "status": "imported",
+      "resource_id": "f24-c-test",
+      "download": "docs/assets/materials/f24-c-test.c",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/6_C_Basics/didn_t use/IDE_Debugging.pptx",
+      "bytes": 263933,
+      "sha256": "3608a82e2c465f4ef3fa3e9a5acf63ec14cd7984c631aa7fae86e3e539ffb424",
+      "status": "imported",
+      "resource_id": "f24-c-debugging",
+      "download": "docs/assets/materials/f24-c-debugging.pptx",
+      "extracted_pages": 10
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/7_Pointers/Pointers1.pdf",
+      "bytes": 512829,
+      "sha256": "c492b8723789af67b75197cc0c33760879708c3ea051f1f3af7f199f0069628d",
+      "status": "imported",
+      "resource_id": "f24-pointers-1",
+      "download": "docs/assets/materials/f24-pointers-1.pdf",
+      "extracted_pages": 16
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/7_Pointers/Pointers1.pptx",
+      "bytes": 702587,
+      "sha256": "8d4fdcc87d87bf08bfa6154a5f0c3fe2dc45e8969014164b2f5ff217ec84dea7",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 16
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/7_Pointers/Pointers2.pdf",
+      "bytes": 524088,
+      "sha256": "709eb8f3d70c5c367897432c3e3a7986b2c14815bb385119b0d9584cbf407f5f",
+      "status": "imported",
+      "resource_id": "f24-pointers-2",
+      "download": "docs/assets/materials/f24-pointers-2.pdf",
+      "extracted_pages": 17
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/7_Pointers/Pointers2.pptx",
+      "bytes": 705478,
+      "sha256": "f4865e7dfae9511f3c3a73c63ce8d957cdcb7e5913a34a320dee30b61fd0762f",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 17
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/8_Struct/LinkedList.pdf",
+      "bytes": 189771,
+      "sha256": "708d6586888922a289f3d8f19ea7aedc159db3084a43a73cca0d1f2954ab8ece",
+      "status": "imported",
+      "resource_id": "f24-linked-lists",
+      "download": "docs/assets/materials/f24-linked-lists.pdf",
+      "extracted_pages": 16
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/8_Struct/LinkedList.pptx",
+      "bytes": 259485,
+      "sha256": "b43a45126d80d455bd85b7af2e1a8e8088b5ff19e74f9cb65b2e807bb258c75d",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 16
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/8_Struct/Struct_Datatype.pdf",
+      "bytes": 98975,
+      "sha256": "9d73e7f94e0ef6fa69b5451f08738631f4069436898e8f66c2d87631ae5ae635",
+      "status": "imported",
+      "resource_id": "f24-structs",
+      "download": "docs/assets/materials/f24-structs.pdf",
+      "extracted_pages": 14
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/8_Struct/Struct_Datatype.pptx",
+      "bytes": 93618,
+      "sha256": "886d7f94886cd47c957f5f89df718f3b95bb5f7e45b82bc2c842c4880078d465",
+      "status": "editable-source-only",
+      "note": "PDF reading copy is available where present; source not assumed identical.",
+      "extracted_pages": 14
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Lectures/8_Struct/struct_datatype.c",
+      "bytes": 1063,
+      "sha256": "66df36b46a21e5d232d2d1b8faa5e98fad6e534f53ff565a33bd9e1555536d15",
+      "status": "imported",
+      "resource_id": "f24-struct-example",
+      "download": "docs/assets/materials/f24-struct-example.c",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Projects/Assembly/CSCI260_LC3Project_Fall24.pdf",
+      "bytes": 84184,
+      "sha256": "ceddf636ee124057c41c6642140be9f9275beaa18793d51df4d6b6404bfed65a",
+      "status": "imported",
+      "resource_id": "f24-lc3-project",
+      "download": "docs/assets/materials/f24-lc3-project.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Projects/C Project/CSCI260_CProject_Fall24.pdf",
+      "bytes": 97496,
+      "sha256": "60a97698a10c022811c984c781f54945f9ea20702cdcf80e1209f4716e26fdbd",
+      "status": "imported",
+      "resource_id": "f24-c-project",
+      "download": "docs/assets/materials/f24-c-project.pdf",
+      "extracted_pages": 2
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Projects/C Project/LL_Template.c",
+      "bytes": 3822,
+      "sha256": "cd8104b87fbd176b8c2190d8b714491af320fa1ffa800652ba3b34138145193c",
+      "status": "imported",
+      "resource_id": "f24-c-template",
+      "download": "docs/assets/materials/f24-c-template.c",
+      "extracted_pages": 1
+    },
+    {
+      "source": "Past Material - 24/CSCI 260 Materials/Projects/C Project/LL_Template_complete.c",
+      "bytes": 3408,
+      "sha256": "feedddb8fa8444fbb809ba0510daf1425022cc7b4dce062b526309a0b6b23f03",
+      "status": "imported",
+      "resource_id": "f24-c-template-complete",
+      "download": "docs/assets/materials/f24-c-template-complete.c",
+      "extracted_pages": 1
+    }
+  ]
+}

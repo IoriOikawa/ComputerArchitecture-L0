@@ -1,5 +1,8 @@
 # Assignment 0: Build Your LC-3 Survival Kit  
 
+!!! note "Archived Fall25 assignment"
+    The dates and classroom submission instructions below belong to the original course. For self-study, use this alongside [Chapter 3](library/chapter-03.md) and the [assignment library](library/assignments.md). A [readable PDF](assets/materials/f25-a0.pdf) is also available. A separate worksheet template was not located in the imported materials.
+
 ## Overview  
 In this assignment, you will design and assemble your own **LC-3 Survival Kit**—a personalized set of study and problem-solving tools to help you master the LC-3 assembly language and computer architecture concepts. This kit should be practical, easy to use, and tailored for students like you, who will rely on it throughout the course.  
 
@@ -57,4 +60,3 @@ You will use the provided reference documents (ISA appendix, LC-3 manual, and la
 ## Submission  
 - Bring your completed Survival Kit to class from **15th September**.  
 - Submit a **PDF scan** (or digital version) to the course portal for evaluation the deadline is also, before the class time from **22nd September, 11:50 A.M. Madison, NJ Time**.  
-

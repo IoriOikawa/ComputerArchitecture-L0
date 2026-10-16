@@ -1,0 +1,36 @@
+; This is the program to reverse a string
+
+; Hint: Consider a "mask", x0001. What does it do to a string?
+;		Now, for the mask x0002. What does it do to that string?
+;		What about mask x0004, x0008, x0010, etc?
+;		Now, how can you utilize those to reverse that string?
+.orig X3000
+LDI R1 xFF          ; load string (x3100-x3001=xFF)
+ADD R3 R3 #1        ; this is the mask
+
+; loop body
+AND R2 R1 R3        ; isolate a bit
+BRz #1              ; if the number with the isolated bit is 0, then this is a trivial bit, so just double mask value
+                    ; otherwise, the isolate bit is 1 (the number with that bit might be any non-zero values!)
+ADD R0,R0,#1        ; given solated bit is 1, add the bit to rightmost in reversed pattern
+ADD R3 R3 R3        ; double the mask for next bit
+BRz DONE            ; if after the doubling, mask becomes 1 (overflow), then we dealt with all bits and we are done!
+ADD R0,R0,R0        ; if not done, shift the pattern
+BRnzp #-7
+; end of loop
+
+DONE HALT
+.end
+
+
+; intermediates
+.orig x3100
+.FILL x4000
+.FILL x4001
+.end
+
+
+; data space
+.orig x4000
+.FILL x9871
+.end

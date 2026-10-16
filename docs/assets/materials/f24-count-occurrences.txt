@@ -1,0 +1,39 @@
+;
+; Initialization
+;
+        .ORIG x3000
+        AND   R2,R2,#0  ; R2 is counter, initialized to 0
+        LD    R3,PTR    ; R3 is pointer to char in file
+        IN              ; R0 get the char input
+        LDR   R1,R3,#0  ; R1 gets the next char from file
+;
+; Test char for end of file (EOT).
+;
+TEST    ADD   R4,R1,#-4 ; Test for EOT
+        BRz   OUTPUT    ; If done, prepare the output
+
+        NOT   R1,R1
+        ADD   R1,R1,#1  ; R1 <-- -R1
+        ADD   R1,R1,R0  ; R1 <-- R0-R1. If R1=0, a match!
+        BRnp  GETCHAR   ; If no match, do not increment
+
+        ADD   R2,R2,#1  ; Increment counter
+;
+; Get the next char from file.
+;
+GETCHAR ADD R3,R3,#1    ; Increment the file pointer
+        LDR R1,R3,#0    ; R1 gets the next char from file
+        BRnzp TEST      ; Go back and test again
+;
+; Output the count.
+;
+OUTPUT  LD R0,ASCII     ; Load the ASCII template
+        ADD R0,R0,R2    ; Convert binary to ASCII
+        OUT
+        HALT
+;
+; Storage for file pointer and ASCII template
+;
+ASCII   .FILL x0030
+PTR     .FILL x4000
+.END

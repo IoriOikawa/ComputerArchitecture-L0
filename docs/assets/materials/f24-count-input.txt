@@ -1,0 +1,4 @@
+.ORIG x4000
+.STRINGZ "BARNARDO Who’s there? FRANCISCO  Nay, answer me. Stand and unfold yourself."
+.FILL x0004
+.END

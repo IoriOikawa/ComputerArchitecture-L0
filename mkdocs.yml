@@ -1,5 +1,33 @@
 site_name: ComputerArchitectureL0
-site_url: https://drew-undergraduate-catalog.coursedog.com/courses/CSCI260
+# Set site_url when the public hosting URL is chosen.
+site_description: Computer architecture lecture notes, assignments and a connected LC-3 to C reading path.
+repo_url: https://github.com/IoriOikawa/ComputerArchitecture-L0
+
+exclude_docs: |
+  superpowers/
+
+nav:
+  - Introduction: index.md
+  - Materials Library:
+      - Reading Map: library/index.md
+      - "0 · Why Architecture?": library/chapter-00.md
+      - "1 · History and Performance": library/chapter-01.md
+      - "2 · Measuring Computers": library/chapter-02.md
+      - "Bridge · Bits and Logic": library/foundations.md
+      - "3 · LC-3 Components and ISA": library/chapter-03.md
+      - "4 · Programming in LC-3": library/chapter-04.md
+      - "5 · Control Flow and Hazards": library/chapter-05.md
+      - "6 · Assembly and Data Structures": library/chapter-06.md
+      - "7 · High-Level Languages and C": library/chapter-07.md
+      - "8 · C and Pointers": library/chapter-08.md
+      - "Extension · Files and Structures": library/c-extensions.md
+  - Practice:
+      - Assignments and Projects: library/assignments.md
+      - Original Survival Kit Page: Assignment0_Survival_Kit.md
+  - About the Materials:
+      - Known Corrections: library/errata.md
+      - Sources and Coverage: library/sources.md
+
 theme:
   name: material
   font:

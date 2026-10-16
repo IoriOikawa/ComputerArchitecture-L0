@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage[lmargin=1in, rmargin=1in, top=0.5in, bottom=0.5in]{geometry}
+\usepackage{graphicx}
+
+\title{\textbf{Drew University - CSCI 260 - Fall 2022\\HW6 - C Programming - String and File I/O}}
+\date{}
+
+\begin{document}
+\maketitle
+
+\vspace{-0.5in}
+\textbf{HW Info.}: Due on 12/09/2022 (Fri.) by 11:59pm, 20 points
+
+\textbf{Submission}: Submit a \textit{.zip} file that contains your answer to Problem 1 in \textit{.pdf} and your C problem \textit{Palindrome.c} to Problem 2.
+
+\textbf{Note}: Please follow Drew University's Standard of Academic Integrity and refer to the course syllabus for late submission policy.\\
+
+
+
+\begin{enumerate}
+    \item (10 points) For the program below, find the value of \textit{int result = count(20);} by either drawing the flow chart similar to that in Figure 17.2 from the textbook (also on Page 7 from slide deck) or the stack operations similar to that Figure 17.14 from the textbook (also on Page 11-12 from slide deck).
+    
+    \hspace{0.5in}\textit{int count(int arg) \{}
+    
+    \hspace{0.5in}\textit{\{}
+    
+    \hspace{0.65in}\textit{if (arg $<$ 1)}
+    
+    \hspace{0.8in}\textit{return 0;}
+    
+    \hspace{0.65in}\textit{else if (arg $\%$ 2 == 1)}
+    
+    \hspace{0.8in}\textit{return (1 + count(arg - 2));}
+
+    \hspace{0.65in}\textit{else}
+    
+    \hspace{0.8in}\textit{return (1 + count(arg - 1));}
+    
+    \hspace{0.5in}\textit{\}}
+    
+    
+    \vspace{0.3in}
+    \item (10 points) In C, write a \textbf{recursive} function \textit{int Palindrome(char mystr[], int len)} that checks whether the string \textit{char mystr[] = "... ..."} is a \textbf{palindrome} or not. If it is then print ``Palindrome" and if not print ``Not palindrome" to the console.
+    
+    A string being a palindrome has 2 cases: $(i)$ if the string has an even length, then the first half is a mirroring of the second half; e.g., \textit{abccba} is a palindrome, whereas \textit{abccab} is not. $(ii)$ if the string has an odd length, then disregard of the letter in the middle, the first half is a mirroring of the second half; e.g., \textit{abcvcba} is a palindrome, whereas \textit{abccvba} is not.\\
+    
+    \textbf{Hints}: 
+    \begin{itemize}
+        \item In your \textit{main()} when initializing \textit{mystr[]}, recall that a `\textbackslash0' will be included. To counter that, you'd probably need to create another string \textit{newstr[]} that only contains the actual letters.\smallskip
+        
+        \item In your \textit{Palindrome()} function, your \textit{base cases} should consider when the current string has either a length of 0 and 1.\smallskip
+        
+        \item In your \textit{Palindrome()} function, you want to match the first and last chars in your current string. What's the implication if that's not the case? And if that is the case (i.e., a match), how do we proceed with the next call to check the next pair (i.e., what is your \textit{recursive step})?\smallskip
+        
+        \item In your \textit{recursive step}, you will probably need to create another string \textit{newstr[]} for the next recursive call. Also what is the length \textit{len} you will want to pass in?\smallskip
+        
+        \item Your \textit{Palindrome()} function will take about 20-25 lines. If yours is way beyond those numbers, then you are probably doing something wrong.
+    \end{itemize}
+    
+    
+    
+    
+\end{enumerate}
+
+
+\end{document}
