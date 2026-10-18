@@ -14,9 +14,6 @@ Use the LC-3 experience to understand what a higher-level language adds. Bring i
 - [C functions and runtime stack](../assets/materials/f24-c-functions.pptx) (11 pages · PPTX · 199 KiB). PPTX only: functions and the runtime stack.
 - [IDE and debugging](../assets/materials/f24-c-debugging.pptx) (10 pages · PPTX · 258 KiB). PPTX only: a historical IDE walkthrough; focus on breakpoints and stepping concepts.
 
-!!! warning "Linking command correction"
-    On page 49, omit `-S`: use `gcc charcount.o -o charcount`. Use ordinary ASCII hyphens. See [the correction and GCC reference](errata.md#c-linking-command).
-
 ## How the older slides help
 
 The four PPTX decks come from the old `didn_t use` directory. They fill practical C-language steps between the Fall25 overview and pointers. Their presence in the library does not imply they were taught in Fall25.

@@ -9,9 +9,6 @@ The 128-page Fall25 chapter combines several lecture units. Use the page ranges 
 - [Assembly, subroutines and abstract data structures](../assets/materials/f25-ch06.pdf) (128 pages · PDF · 3.8 MiB). [Download PDF](../assets/materials/f25-ch06.pdf){: download="" }. Main chapter, organized into the smaller reading blocks below.
 - [Assembly format and symbol tables](../assets/materials/f24-assembly.pdf) (17 pages · PDF · 585 KiB). [Download PDF](../assets/materials/f24-assembly.pdf){: download="" }. A shorter companion for assembly format, pseudo-operations and symbol tables.
 
-!!! warning "Read the stack/queue correction first"
-    The source reverses the ordering labels on pages 90 and 108. A stack is LIFO; a queue is FIFO. See [the correction record](errata.md#stack-and-queue-order).
-
 ## Reading blocks
 
 | Pages | Topic | Connection |

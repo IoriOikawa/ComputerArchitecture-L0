@@ -125,12 +125,21 @@
     },
     {
       "source": "Fall25/LectureSlides/CSCI260_Fall25_Chapter6.pdf",
-      "bytes": 3951188,
-      "sha256": "7ab3391b5bacaa6fb133ffa484f0a2fd41c343ae8ed6e910eccefe6a6c709d46",
+      "bytes": 3951181,
+      "sha256": "4f1a23f90a2bcd0c72096e294aab5292dd4f325b3799e91541c27c72ccd2000b",
       "status": "imported",
       "resource_id": "f25-ch06",
       "download": "docs/assets/materials/f25-ch06.pdf",
-      "extracted_pages": 128
+      "extracted_pages": 128,
+      "updated_on": "2026-10-18",
+      "revisions": [
+        {
+          "date": "2026-10-18",
+          "previous_sha256": "7ab3391b5bacaa6fb133ffa484f0a2fd41c343ae8ed6e910eccefe6a6c709d46",
+          "sha256": "4f1a23f90a2bcd0c72096e294aab5292dd4f325b3799e91541c27c72ccd2000b",
+          "note": "Author-corrected PDF: stack/queue order on pages 90 and 108."
+        }
+      ]
     },
     {
       "source": "Fall25/LectureSlides/Chapter 5+.key",
@@ -141,12 +150,21 @@
     },
     {
       "source": "Fall25/LectureSlides/Chapter 7.pdf",
-      "bytes": 9421452,
-      "sha256": "a1128b2543ca829841cc197438b05ba86d040708c5eeaf39dcc6ee1bb49cc036",
+      "bytes": 9421504,
+      "sha256": "f7e5c1b549e3c0e59c8d9696d3b1672f8dedb87ed806fe879313edfb935189bf",
       "status": "imported",
       "resource_id": "f25-ch07",
       "download": "docs/assets/materials/f25-ch07.pdf",
-      "extracted_pages": 56
+      "extracted_pages": 56,
+      "updated_on": "2026-10-18",
+      "revisions": [
+        {
+          "date": "2026-10-18",
+          "previous_sha256": "a1128b2543ca829841cc197438b05ba86d040708c5eeaf39dcc6ee1bb49cc036",
+          "sha256": "f7e5c1b549e3c0e59c8d9696d3b1672f8dedb87ed806fe879313edfb935189bf",
+          "note": "Author-corrected PDF: linking command on page 49."
+        }
+      ]
     },
     {
       "source": "Fall25/LectureSlides/Chapter 8.key",

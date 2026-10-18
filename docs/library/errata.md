@@ -1,25 +1,25 @@
 # Known corrections and reading notes
 
-These notes accompany unchanged source files. They identify issues noticed while organizing the collection; they are not a comprehensive technical review. Page numbers below are PDF page numbers.
+These notes track resolved corrections and remaining reading issues in the collection; they are not a comprehensive technical review. Page numbers below are PDF page numbers. The Chapter 6 and Chapter 7 corrections were verified and their website PDFs updated on **October 18, 2026**. The other notes remain open.
 
 ## Stack and queue order
 
-In [Assembly, subroutines and abstract data structures](../assets/materials/f25-ch06.pdf), page 90 labels a stack “First In, First Out”, and page 108 labels a queue “First In, Last Out”. The labels are reversed:
+**Fixed in the current chapter PDF.** In [Assembly, subroutines and abstract data structures](../assets/materials/f25-ch06.pdf), page 90 now labels a stack “First In, Last Out”, and page 108 labels a queue “First In, First Out”. These are correct:
 
 - **Stack:** last in, first out (LIFO).
 - **Queue:** first in, first out (FIFO).
 
-Both source slides were visually checked. Definitions: [NIST stack](https://xlinux.nist.gov/dads/HTML/stack.html) and [NIST queue](https://xlinux.nist.gov/dads/HTML/queue.html).
+The earlier version reversed these labels. Both corrected slides were visually checked, and the website now serves the corrected chapter PDF. Definitions: [NIST stack](https://xlinux.nist.gov/dads/HTML/stack.html) and [NIST queue](https://xlinux.nist.gov/dads/HTML/queue.html).
 
 ## C linking command
 
-In [Introduction to high-level languages](../assets/materials/f25-ch07.pdf), page 49 shows `gcc -S charcount.o -o charcount` as a linking step. The `-S` option stops before assembly and linking. For the illustrated object file, the linking command should be:
+**Fixed in the current chapter PDF.** In [Introduction to high-level languages](../assets/materials/f25-ch07.pdf), page 49 now shows the correct linking command:
 
 ```sh
 gcc charcount.o -o charcount
 ```
 
-Use ASCII hyphens when copying commands from a slide. The source slide was visually checked; see [GCC output-stage options](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html).
+The earlier version included `-S`, which stops before assembly and linking. The corrected slide uses ASCII hyphens and was visually checked. The website now serves the corrected chapter PDF. See [GCC output-stage options](https://gcc.gnu.org/onlinedocs/gcc/Overall-Options.html).
 
 ## Returning a local array
 
