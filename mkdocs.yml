@@ -1,5 +1,5 @@
 site_name: ComputerArchitectureL0
-# Set site_url when the public hosting URL is chosen.
+site_url: https://iorioikawa.github.io/ComputerArchitecture-L0/
 site_description: Computer architecture lecture notes, assignments and a connected LC-3 to C reading path.
 repo_url: https://github.com/IoriOikawa/ComputerArchitecture-L0
 

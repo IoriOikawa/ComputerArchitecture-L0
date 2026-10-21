@@ -21,7 +21,7 @@
 **Files:**
 - Modify: `mkdocs.yml:1-4`
 
-- [ ] **Step 1: Replace the placeholder comment with the public URL**
+- [x] **Step 1: Replace the placeholder comment with the public URL**
 
 ```yaml
 site_name: ComputerArchitectureL0
@@ -29,7 +29,7 @@ site_url: https://iorioikawa.github.io/ComputerArchitecture-L0/
 site_description: Computer architecture lecture notes, assignments and a connected LC-3 to C reading path.
 ```
 
-- [ ] **Step 2: Build locally with the production URL**
+- [x] **Step 2: Build locally with the production URL**
 
 Run:
 
@@ -39,7 +39,7 @@ Run:
 
 Expected: exit status 0 and `Documentation built` in the output. The existing informational Material for MkDocs banner may still appear.
 
-- [ ] **Step 3: Verify generated canonical metadata and project-prefixed links**
+- [x] **Step 3: Verify generated canonical metadata and project-prefixed links**
 
 Run:
 
@@ -50,7 +50,7 @@ test -f site/assets/images/course-cover.png
 
 Expected: the canonical project URL appears in `site/index.html`, and the cover image exists in the built site.
 
-- [ ] **Step 4: Commit the URL configuration**
+- [x] **Step 4: Commit the URL configuration**
 
 ```bash
 git add mkdocs.yml docs/superpowers/plans/2026-10-20-github-pages-deployment.md
