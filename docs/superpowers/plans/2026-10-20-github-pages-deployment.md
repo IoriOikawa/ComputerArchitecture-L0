@@ -160,7 +160,7 @@ git commit -m "ci: deploy course archive to GitHub Pages"
 **Files:**
 - No repository files are created or modified.
 
-- [ ] **Step 1: Configure the repository's Pages build source**
+- [x] **Step 1: Configure the repository's Pages build source**
 
 In `https://github.com/IoriOikawa/ComputerArchitecture-L0/settings/pages`, set **Build and deployment → Source** to **GitHub Actions**.
 
