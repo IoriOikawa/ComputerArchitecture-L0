@@ -2,6 +2,12 @@
 
 A MkDocs Material course library connecting the Fall25 chapter sequence with earlier lectures, exercises and projects. The first audience is self-learners who have some programming experience.
 
+<p align="center">
+  <a href="docs/assets/images/course-cover.png">
+    <img src="docs/assets/images/course-cover.png" alt="CSCI 260 Computer Architecture course archive cover, Fall 2025" width="320">
+  </a>
+</p>
+
 ## Preview locally
 
 ```sh

@@ -4,6 +4,13 @@ Welcome to your first step into Computer Architecture!
 
 **[Explore the course materials library](library/index.md)** to follow the Fall25 chapter sequence with earlier lectures and exercises placed alongside it. Start with the reading map, or go directly to [assignments and projects](library/assignments.md). Check the [known corrections](library/errata.md) when using the archived slides.
 
+<figure>
+  <a href="assets/images/course-cover.png">
+    <img src="assets/images/course-cover.png" alt="CSCI 260 Computer Architecture course archive cover, Fall 2025" width="360" height="540" style="max-width: 100%; height: auto;">
+  </a>
+  <figcaption>CSCI 260 · Fall 2025 course archive</figcaption>
+</figure>
+
 The online material you are about to see will help you bridging the gap between hardware and software's side. I believe these information would help you to reveil the cooperation between our daily magic (programs) today, and the carrier(computer chips) to make those magic happen.
 
 ## What are these materials for?
