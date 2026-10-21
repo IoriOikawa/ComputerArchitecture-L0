@@ -166,7 +166,7 @@ In `https://github.com/IoriOikawa/ComputerArchitecture-L0/settings/pages`, set *
 
 Expected: GitHub records GitHub Actions as the Pages source. If the repository already has this source selected, leave it unchanged.
 
-- [ ] **Step 2: Push the verified commits**
+- [x] **Step 2: Push the verified commits**
 
 Run:
 
@@ -176,13 +176,13 @@ git push origin master
 
 Expected: the local `master` commits are accepted by `origin/master` and the deployment workflow starts.
 
-- [ ] **Step 3: Verify the workflow result**
+- [x] **Step 3: Verify the workflow result**
 
 Open the repository's Actions page and inspect **Deploy course archive to Pages**.
 
 Expected: both `build` and `deploy` complete successfully, and the deployment reports a public page URL.
 
-- [ ] **Step 4: Verify the published site**
+- [x] **Step 4: Verify the published site**
 
 Open `https://iorioikawa.github.io/ComputerArchitecture-L0/` and check:
 
@@ -193,7 +193,7 @@ Open `https://iorioikawa.github.io/ComputerArchitecture-L0/` and check:
 
 Expected: all four checks pass.
 
-- [ ] **Step 5: Verify repository synchronization**
+- [x] **Step 5: Verify repository synchronization**
 
 Run:
 
