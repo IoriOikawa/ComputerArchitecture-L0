@@ -62,7 +62,7 @@ git commit -m "docs: configure public site URL"
 **Files:**
 - Create: `.github/workflows/deploy-pages.yml`
 
-- [ ] **Step 1: Create the deployment workflow**
+- [x] **Step 1: Create the deployment workflow**
 
 ```yaml
 name: Deploy course archive to Pages
@@ -122,7 +122,7 @@ jobs:
         uses: actions/deploy-pages@v5
 ```
 
-- [ ] **Step 2: Parse the workflow as YAML**
+- [x] **Step 2: Parse the workflow as YAML**
 
 Run:
 
@@ -136,7 +136,7 @@ Expected: exit status 0 with no output. If `yaml` is unavailable, use Ruby's bun
 ruby -e 'require "yaml"; YAML.load_file(".github/workflows/deploy-pages.yml", aliases: true)'
 ```
 
-- [ ] **Step 3: Re-run the production build and inspect the diff**
+- [x] **Step 3: Re-run the production build and inspect the diff**
 
 Run:
 
@@ -148,7 +148,7 @@ git diff -- .github/workflows/deploy-pages.yml mkdocs.yml
 
 Expected: the build exits successfully, `git diff --check` produces no output, and the diff contains only the intended deployment configuration plus plan progress.
 
-- [ ] **Step 4: Commit the deployment workflow**
+- [x] **Step 4: Commit the deployment workflow**
 
 ```bash
 git add .github/workflows/deploy-pages.yml docs/superpowers/plans/2026-10-20-github-pages-deployment.md
